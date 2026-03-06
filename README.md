@@ -9,6 +9,4 @@ Python • Machine Learning • Deep Learning • Pandas • NumPy • Scikit-Le
 
 ## Projects
 - AI Credit Card Fraud Detection
-- Movie Recommendation System
-- Stock Price Prediction
-- Sentiment Analysis
+- Deep Learning Sentiment Analysis
