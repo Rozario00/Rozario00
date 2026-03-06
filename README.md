@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Rozario 👋
 
-<!--
-**Rozario00/Rozario00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 AI & Machine Learning Enthusiast  
+💻 Building Machine Learning projects with Python  
+🧠 Exploring Deep Learning and AI systems  
 
-Here are some ideas to get you started:
+## Skills
+Python • Machine Learning • Deep Learning • Pandas • NumPy • Scikit-Learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- AI Credit Card Fraud Detection
+- Movie Recommendation System
+- Stock Price Prediction
+- Sentiment Analysis
