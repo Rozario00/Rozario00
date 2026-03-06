@@ -1,4 +1,4 @@
-# Hi, I'm Rozario 👋
+# Hi, I'm Dheeraj Clinus Rozario 👋
 
 🤖 AI & Machine Learning Enthusiast  
 💻 Building Machine Learning projects with Python  
