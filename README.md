@@ -19,6 +19,7 @@ Python • Machine Learning • Deep Learning • Generative AI • TensorFlow �
 
 * **AI Credit Card Fraud Detection** – Machine learning model for detecting fraudulent transactions.
 * **Deep Learning Sentiment Analysis** – Bidirectional LSTM model for classifying IMDB movie reviews.
+* **CNN Image Classification (Fashion-MNIST)** – Convolutional Neural Network built with TensorFlow/Keras to classify clothing images into 10 categories with ~92% accuracy.
 
 ## Currently Exploring
 
